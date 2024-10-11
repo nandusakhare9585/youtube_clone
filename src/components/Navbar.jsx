@@ -8,7 +8,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { setCategory, setSearchSuggesion, toggleSidebar } from "../utils/appSlice"
 import { useState } from "react";
 import axios from "axios";
-import { SEARCH_SUGGESIONS_API } from "../constant/youtube";
+import { SEARCH_SUGGESIONS_API } from "../constant/youtube";      
 
 
 
