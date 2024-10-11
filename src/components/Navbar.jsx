@@ -46,7 +46,7 @@ const Navbar = () => {
 
     return (
         <div className="flex fixed top-0 justify-center item-center w-[100%] z-10 bg-white" >
-            <div className="flex w-[96%] py-3 justify-between item-center" >
+            <div className="flex w-[96%] py-3 justify-between item-center" > 
 
                 <div className="flex item-center">
                     <GiHamburgerMenu onClick={toggleHandler} size="24px" className="cursor-pointer" />
